@@ -6,7 +6,7 @@
   "scripts": {
     "start": "http-server ."
   },
-  "author": "Your Name Here",
+  "author": "Your Updated Name",
   "license": "MIT",
   "dependencies": {}
 }
