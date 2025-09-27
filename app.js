@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Tech Evangelismus Hub is ready!');
+    console.log('The Tech Evangelismus Hub has successfully loaded!');
 });
