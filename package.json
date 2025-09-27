@@ -1,0 +1,12 @@
+{
+  "name": "tech-evangelismus-hub",
+  "version": "1.0.0",
+  "description": "Ein Hub für Tech-Evangelismus und Wissensaustausch.",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "author": "Dein Name",
+  "license": "MIT",
+  "dependencies": {}
+}
