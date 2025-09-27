@@ -26,7 +26,7 @@ main {
 }
 footer {
     text-align: center;
-    background: #35424a;
+    background: #2c3e50; /* Updated footer background for better visibility */
     color: white;
     padding: 10px 0;
     position: relative;
